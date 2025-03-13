@@ -5,3 +5,5 @@ date:   2025-03-14 04:17:24 +0900
 categories: "記録"
 ---
 ここにサンプルコードを記録します。
+
+<img src="https://meimei092.github.io/blogtest6/assets/shigoto_zaitaku_cat_man.png/">
