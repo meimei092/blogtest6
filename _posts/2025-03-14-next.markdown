@@ -6,4 +6,4 @@ categories: "記録"
 ---
 ここにサンプルコードを記録します。
 
-<img src="https://meimei092.github.io/blogtest6/assets/0314/shigoto_zaitaku_cat_man.png">
+<img src="/assets/0314/shigoto_zaitaku_cat_man.png">
