@@ -6,5 +6,7 @@ categories: kiroku
 ---
 ここにサンプルコードを記録します。
 
-<img src="assets/0314/shigoto_zaitaku_cat_man.png">
+<img src="/assets/0314/shigoto_zaitaku_cat_man.png">
+
+![画像貼り付けテスト](/assets/0314/shigoto_zaitaku_cat_man.png)
 
