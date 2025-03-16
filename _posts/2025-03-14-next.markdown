@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "test投稿"
+title:  "投稿に画像を張り付けてみたよ"
 date:   2025-03-14 04:17:24 +0900
 categories: kiroku
 ---
